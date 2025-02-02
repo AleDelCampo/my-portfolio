@@ -1,0 +1,173 @@
+{
+  "type": [
+    {
+      "id": 1,
+      "title": "Music Platform"
+    },
+    {
+      "id": 2,
+      "title": "Streaming Platform"
+    },
+    {
+      "id": 3,
+      "title": "Message Platform"
+    },
+    {
+      "id": 4,
+      "title": "Web App Comics Library"
+    },
+    {
+      "id": 5,
+      "title": "B&B Platform"
+    },
+    {
+      "id": 6,
+      "title": "Personal Blog, Work In Progress"
+    }
+  ],
+  "technologies": [
+    {
+      "id": 1,
+      "name": "HTML",
+      "preview": "HTML.jpg"
+    },
+    {
+      "id": 2,
+      "name": "CSS",
+      "preview": "CSS.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Bootstrap",
+      "preview": "Bootstrap.jpg"
+    },
+    {
+      "id": 4,
+      "name": "JavaScript",
+      "preview": "JS.png"
+    },
+    {
+      "id": 5,
+      "name": "Vue.Js",
+      "preview": "Vue.Js.png"
+    },
+    {
+      "id": 6,
+      "name": "Mamp",
+      "preview": "Mamp.webp"
+    },
+    {
+      "id": 7,
+      "name": "PHP",
+      "preview": "PHP.png"
+    },
+    {
+      "id": 8,
+      "name": "Laravel",
+      "preview": "Laravel.png"
+    }
+  ],
+  "results": {
+    "data": [
+      {
+        "slug": "BoolTify",
+        "title": "BoolTify",
+        "description": "",
+        "image": "../public/projects/BoolTify.png",
+        "type": 1,
+        "technologies": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "slug": "BoolFlix",
+        "title": "BoolFlix",
+        "description": "",
+        "image": "../public/projects/BoolFlix.png",
+        "type": 2,
+        "technologies": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "slug": "BoolZapp",
+        "title": "BoolZapp",
+        "description": "",
+        "image": "../public/projects/BoolZapp.png",
+        "type": 3,
+        "technologies": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "slug": "BoolMics",
+        "title": "BoolMics",
+        "description": "",
+        "image": "../public/projects/BoolMics.png",
+        "type": 4,
+        "technologies": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "slug": "BoolBnB",
+        "title": "BoolBnB",
+        "description": "",
+        "image": "../public/projects/BoolBnB.png",
+        "type": 5,
+        "technologies": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "slug": "Camper4Four",
+        "title": "Camper4Four",
+        "description": "",
+        "image": "../public/projects/CAMPER4FOUR.png",
+        "type": 6,
+        "technologies": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      }
+    ],
+    "links": [
+      {
+        "label": "1",
+        "url": "/projects?page=1"
+      },
+      {
+        "label": "2",
+        "url": "/projects?page=2"
+      },
+      {
+        "label": "3",
+        "url": "/projects?page=3"
+      }
+    ]
+  }
+}
