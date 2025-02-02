@@ -91,7 +91,7 @@ export default {
       <h3>Technologies Used:</h3>
       <ul class="d-flex">
         <li v-for="tech in project.technologies" :key="tech.id">
-          <img class="img-cnt" :src="`../public/projects/${tech.preview}`" alt="" />
+          <img class="img-cnt" :src="`/projects/${tech.preview}`" alt="" />
           <p class="me-4">{{ tech.name }}</p>
         </li>
       </ul>
@@ -108,6 +108,7 @@ export default {
     </div>
   </div>
 </template>
+
 
 <style lang="scss" scoped>
 

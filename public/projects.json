@@ -22,7 +22,7 @@
     },
     {
       "id": 6,
-      "title": "Personal Blog, Work In Progress"
+      "title": "Personal Blog Work In Progress"
     }
   ],
   "technologies": [
@@ -73,7 +73,7 @@
         "slug": "BoolTify",
         "title": "BoolTify",
         "description": "",
-        "image": "../public/projects/BoolTify.png",
+        "image": "/projects/BoolTify.png",
         "type": 1,
         "technologies": [
           1,
@@ -85,7 +85,7 @@
         "slug": "BoolFlix",
         "title": "BoolFlix",
         "description": "",
-        "image": "../public/projects/BoolFlix.png",
+        "image": "/projects/BoolFlix.png",
         "type": 2,
         "technologies": [
           1,
@@ -97,7 +97,7 @@
         "slug": "BoolZapp",
         "title": "BoolZapp",
         "description": "",
-        "image": "../public/projects/BoolZapp.png",
+        "image": "/projects/BoolZapp.png",
         "type": 3,
         "technologies": [
           1,
@@ -110,7 +110,7 @@
         "slug": "BoolMics",
         "title": "BoolMics",
         "description": "",
-        "image": "../public/projects/BoolMics.png",
+        "image": "/projects/BoolMics.png",
         "type": 4,
         "technologies": [
           1,
@@ -124,7 +124,7 @@
         "slug": "BoolBnB",
         "title": "BoolBnB",
         "description": "",
-        "image": "../public/projects/BoolBnB.png",
+        "image": "/projects/BoolBnB.png",
         "type": 5,
         "technologies": [
           1,
@@ -141,7 +141,7 @@
         "slug": "Camper4Four",
         "title": "Camper4Four",
         "description": "",
-        "image": "../public/projects/CAMPER4FOUR.png",
+        "image": "/projects/CAMPER4FOUR.png",
         "type": 6,
         "technologies": [
           1,
