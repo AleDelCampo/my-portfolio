@@ -73,7 +73,7 @@
         "slug": "BoolTify",
         "title": "BoolTify",
         "description": "",
-        "image": "/projects/BoolTify.png",
+        "image": "BoolTify.png",
         "type": 1,
         "technologies": [
           1,
@@ -85,7 +85,7 @@
         "slug": "BoolFlix",
         "title": "BoolFlix",
         "description": "",
-        "image": "/projects/BoolFlix.png",
+        "image": "BoolFlix.png",
         "type": 2,
         "technologies": [
           1,
@@ -97,7 +97,7 @@
         "slug": "BoolZapp",
         "title": "BoolZapp",
         "description": "",
-        "image": "/projects/BoolZapp.png",
+        "image": "BoolZapp.png",
         "type": 3,
         "technologies": [
           1,
@@ -110,7 +110,7 @@
         "slug": "BoolMics",
         "title": "BoolMics",
         "description": "",
-        "image": "/projects/BoolMics.png",
+        "image": "BoolMics.png",
         "type": 4,
         "technologies": [
           1,
@@ -124,7 +124,7 @@
         "slug": "BoolBnB",
         "title": "BoolBnB",
         "description": "",
-        "image": "/projects/BoolBnB.png",
+        "image": "BoolBnB.png",
         "type": 5,
         "technologies": [
           1,
@@ -141,7 +141,7 @@
         "slug": "Camper4Four",
         "title": "Camper4Four",
         "description": "",
-        "image": "/projects/CAMPER4FOUR.png",
+        "image": "CAMPER4FOUR.png",
         "type": 6,
         "technologies": [
           1,
