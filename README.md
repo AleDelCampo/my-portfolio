@@ -14,11 +14,16 @@ Feel free to explore my work and reach out if you have any questions or suggesti
 
 ## 🔧 Technologies Used
 
-- Vue.js
-- Laravel
-- EmailJS
+- HTML
+- CSS
 - SCSS
-- And many more...
+- Bootstrap
+- JavaScript
+- Vue.Js
+- Mamp
+- PHP
+- Laravel
+- Blade
 
 ## 🚧 In Progress
 
